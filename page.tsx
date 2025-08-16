@@ -1,2 +1,0 @@
-helo
-i am developer
